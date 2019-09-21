@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fanajoosei.btao.org/sitemap.xml
